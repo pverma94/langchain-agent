@@ -41,9 +41,7 @@ This project builds a conversational AI agent that can answer questions using a 
 ## Usage
    - Modify src/agent.py to add more tools or customize the agent.
    - Use src/test_openai.py to test your OpenAI API connection.
-   - Run in a Jupyter Notebook for interactive debugging:
-   ```bash
-   jupyter notebook
+   - Run in a Jupyter Notebook for interactive debugging
 
 ## Project Structure
 langchain-agent/
