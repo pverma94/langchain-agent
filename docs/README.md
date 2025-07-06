@@ -44,6 +44,7 @@ This project builds a conversational AI agent that can answer questions using a 
    - Run in a Jupyter Notebook for interactive debugging
 
 ## Project Structure
+```bash
 langchain-agent/
 ├── src/
 │   ├── agent.py          # Main AI agent script
@@ -54,6 +55,7 @@ langchain-agent/
 ├── .gitignore            # Git ignore file
 ├── requirements.txt      # Project dependencies
 └── LICENSE               # Optional license file
+```
 
 ## Contributing
 Feel free to fork this repository, make improvements, and submit pull requests. Issues and feature requests are welcome!
